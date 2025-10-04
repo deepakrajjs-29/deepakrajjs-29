@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋, I'm Deepak Raj JS<br>A passionate ECE student, chess player, and frontend developer from India skilled in Python and tech innovation.</h2>
+<h2 align="left">Hi 👋, I'm Deepak Raj JS
+An ECE student, freelancer, and chess player who loves turning ideas into reality through web development and embedded systems.</h2>
 
 ###
 
