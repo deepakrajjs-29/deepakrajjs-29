@@ -1,5 +1,4 @@
 <br clear="both">
-
 <h2 align="left">Hi 👋, I'm Deepak Raj JS
 An ECE student, freelancer, and chess player who loves turning ideas into reality through web development and embedded systems.</h2>
 
