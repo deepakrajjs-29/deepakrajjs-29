@@ -1,5 +1,5 @@
 <br clear="both">
-<h1 align="left">Hi 👋, I'm Deepak Raj JS </h1><br clear="both">
+<h1 align="left">Hi 👋, I'm Deepak Raj JS </h1>
 <h2 align="left">
 An ECE student, freelancer, and chess player who loves turning ideas into reality through web development and embedded systems.</h2>
 
