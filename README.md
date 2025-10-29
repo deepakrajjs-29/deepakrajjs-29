@@ -75,5 +75,7 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 ###
 
 <img align="left" src="https://profile-counter.glitch.me/deepakrajjs/count.svg?"  />
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/deepakrajjs/deepakrajjs/blob/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://github.com/deepakrajjs/deepakrajjs/blob/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://github.com/deepakrajjs/deepakrajjs/blob/output/github-contribution-grid-snake.svg"> </picture>
+
 
 ###
