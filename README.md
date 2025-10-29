@@ -73,7 +73,7 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 </div>
 
 ###
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <br clear="both">
 
 <picture>
