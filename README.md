@@ -73,7 +73,6 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 </div>
 
 ###
-## 🐍 Contribution Snake
 
 <div align="center">
   
