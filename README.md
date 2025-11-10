@@ -95,7 +95,7 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 
 ---
 
-<div align="center">
+<div align="center"> 
 
 ![Snake animation](https://github.com/deepakrajjs/deepakrajjs/blob/output/github-contribution-grid-snake.svg)
 
