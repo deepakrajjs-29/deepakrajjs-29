@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Deepak Raj JS </h1>
 <h2 align="left">
-An ECE student, freelancer, and <span style="color:#1E90FF;"><b>Open Source Contributor</b></span> who loves turning ideas into reality through web development and embedded systems.
+An ECE student, freelancer, and <font color="#1E90FF"><b>Open Source Contributor</b></font> who loves turning ideas into reality through web development and embedded systems.
 </h2>
+
 
 
 
