@@ -75,15 +75,15 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 ###
 
 <div align="center">
-## 🏆 Certifications Gallery
+###  🏆 Certifications Gallery
 
 <div align="center">
 
 <!-- Row 1 -->
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert1.png" target="_blank">
+<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/Cert1.png" target="_blank">
   <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert1.png" width="250" alt="Certificate 1" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
 </a>
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert2.png" target="_blank">
+<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert2.png" target="_blank">
   <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert2.png" width="250" alt="Certificate 2" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
 </a>
 <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert3.png" target="_blank">
