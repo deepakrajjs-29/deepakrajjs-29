@@ -75,6 +75,162 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 ###
 
 <div align="center">
+## 🏆 Certifications
+
+<div align="center">
+
+### 📜 My Professional Certifications
+
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Certificate Name</th>
+    <th>Issuing Organization</th>
+    <th>Year</th>
+    <th>View</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Certificate Name 1</td>
+    <td>Organization 1</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert1.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Certificate Name 2</td>
+    <td>Organization 2</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert2.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Certificate Name 3</td>
+    <td>Organization 3</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert3.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Certificate Name 4</td>
+    <td>Organization 4</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert4.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Certificate Name 5</td>
+    <td>Organization 5</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert5.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Certificate Name 6</td>
+    <td>Organization 6</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert6.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Certificate Name 7</td>
+    <td>Organization 7</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert7.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Certificate Name 8</td>
+    <td>Organization 8</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert8.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Certificate Name 9</td>
+    <td>Organization 9</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert9.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Certificate Name 10</td>
+    <td>Organization 10</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert10.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Certificate Name 11</td>
+    <td>Organization 11</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert11.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Certificate Name 12</td>
+    <td>Organization 12</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert12.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>Certificate Name 13</td>
+    <td>Organization 13</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert13.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Certificate Name 14</td>
+    <td>Organization 14</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert14.png">🔗 View</a></td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Certificate Name 15</td>
+    <td>Organization 15</td>
+    <td>2024</td>
+    <td><a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert15.png">🔗 View</a></td>
+  </tr>
+</table>
+
+### 🖼️ Certificates Gallery
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert1.png" width="30%" alt="Certificate 1"/>
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert2.png" width="30%" alt="Certificate 2"/>
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert3.png" width="30%" alt="Certificate 3"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert4.png" width="30%" alt="Certificate 4"/>
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert5.png" width="30%" alt="Certificate 5"/>
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert6.png" width="30%" alt="Certificate 6"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert7.png" width="30%" alt="Certificate 7"/>
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert8.png" width="30%" alt="Certificate 8"/>
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert9.png" width="30%" alt="Certificate 9"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert10.png" width="30%" alt="Certificate 10"/>
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert11.png" width="30%" alt="Certificate 11"/>
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert12.png" width="30%" alt="Certificate 12"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert13.png" width="30%" alt="Certificate 13"/>
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert14.png" width="30%" alt="Certificate 14"/>
+  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert15.png" width="30%" alt="Certificate 15"/>
+</p>
+
+</div>
+
+###
   
 
 
