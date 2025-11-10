@@ -83,18 +83,18 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 <table>
   <tr>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert1.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert1.png" width="250" alt="Certificate 1"/>
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/Cert1.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/Cert1.png" width="250" alt="Certificate 1"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert2.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert2.png" width="250" alt="Certificate 2"/>
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert2.PNG">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert2.PNG" width="250" alt="Certificate 2"/>
       </a>
     </td>
     <td align="center">
       <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert3.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert3.png" width="250" alt="Certificate 3"/>
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert3.png" width="250" alt="Certificate 3"/>
       </a>
     </td>
   </tr>
