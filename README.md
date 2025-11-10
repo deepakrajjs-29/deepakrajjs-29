@@ -75,71 +75,104 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 ###
 
 <div align="center">
-###  🏆 Certifications Gallery
+  
+## 🏆 Certifications Gallery
 
 <div align="center">
 
-<!-- Row 1 -->
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/Cert1.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert1.png" width="250" alt="Certificate 1" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert2.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert2.png" width="250" alt="Certificate 2" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert3.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert3.png" width="250" alt="Certificate 3" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert1.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert1.png" width="250" alt="Certificate 1"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert2.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert2.png" width="250" alt="Certificate 2"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert3.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert3.png" width="250" alt="Certificate 3"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert4.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert4.png" width="250" alt="Certificate 4"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert5.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert5.png" width="250" alt="Certificate 5"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert6.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert6.png" width="250" alt="Certificate 6"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert7.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert7.png" width="250" alt="Certificate 7"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert8.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert8.png" width="250" alt="Certificate 8"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert9.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert9.png" width="250" alt="Certificate 9"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert10.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert10.png" width="250" alt="Certificate 10"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert11.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert11.png" width="250" alt="Certificate 11"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert12.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert12.png" width="250" alt="Certificate 12"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert13.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert13.png" width="250" alt="Certificate 13"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert14.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert14.png" width="250" alt="Certificate 14"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert15.png">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert15.png" width="250" alt="Certificate 15"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- Row 2 -->
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert4.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert4.png" width="250" alt="Certificate 4" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert5.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert5.png" width="250" alt="Certificate 5" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert6.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert6.png" width="250" alt="Certificate 6" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-
-<!-- Row 3 -->
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert7.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert7.png" width="250" alt="Certificate 7" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert8.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert8.png" width="250" alt="Certificate 8" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert9.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert9.png" width="250" alt="Certificate 9" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-
-<!-- Row 4 -->
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert10.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert10.png" width="250" alt="Certificate 10" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert11.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert11.png" width="250" alt="Certificate 11" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert12.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert12.png" width="250" alt="Certificate 12" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-
-<!-- Row 5 -->
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert13.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert13.png" width="250" alt="Certificate 13" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert14.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert14.png" width="250" alt="Certificate 14" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
-<a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert15.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert15.png" width="250" alt="Certificate 15" style="margin: 10px; border: 2px solid #444; border-radius: 8px;"/>
-</a>
+<i>Click on any certificate to view full size</i>
 
 </div>
 
-<div align="center">
-  <i>Click on any certificate to view full size</i>
-</div>
-
+###
 ###
 
 
