@@ -12,20 +12,20 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" />
 </div>
 
 ###
@@ -46,89 +46,33 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 
 <table>
 <tr>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1e6PHDXMSf-h92AOFfGyqhQuH1Gxla5aV" width="300"/><br>
-<b>Web Development Internship – Codsoft</b>
-</td>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1kkjrhcrMRxV7syFzwr_Xh1_09MqNqCdb" width="300"/><br>
-<b>Embedded Systems Internship – Emglitz Technologies</b>
-</td>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1qx_GG0nj9K3f87EbiA5WjJ69Ek3mxTar" width="300"/><br>
-<b>Canva Design Course – Nativa Platform</b>
-</td>
+<td><img src="https://drive.google.com/uc?export=view&id=1e6PHDXMSf-h92AOFfGyqhQuH1Gxla5aV" width="300"/></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1kkjrhcrMRxV7syFzwr_Xh1_09MqNqCdb" width="300"/></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1qx_GG0nj9K3f87EbiA5WjJ69Ek3mxTar" width="300"/></td>
 </tr>
-
 <tr>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1FCkYZQsPEdkmnvBSxdYeXhrZ9J_YLb_2" width="300"/><br>
-<b>Arduino UNO Hands-on Training</b>
-</td>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1nPYJXhh90jURv9ae_iGAxiJCleXxDeZe" width="300"/><br>
-<b>Smart Parking Violation Project Presentation</b>
-</td>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1HFNpjU2gBYFtSnOLi3oJXl2jfgINwFUp" width="300"/><br>
-<b>IJNRD Journal Publication</b>
-</td>
+<td><img src="https://drive.google.com/uc?export=view&id=1FCkYZQsPEdkmnvBSxdYeXhrZ9J_YLb_2" width="300"/></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1nPYJXhh90jURv9ae_iGAxiJCleXxDeZe" width="300"/></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1HFNpjU2gBYFtSnOLi3oJXl2jfgINwFUp" width="300"/></td>
 </tr>
-
 <tr>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1wKDuveVHp_Ot_r2l950w5iYd04rppu_y" width="300"/><br>
-<b>Hackathon Participation – Unstop</b>
-</td>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1FlscLCjXIv3bTANt5yRzNuG3p0VKCk2L" width="300"/><br>
-<b>Soldering Contest – Amrita University</b>
-</td>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1ujtxE91GOOAyKwbq6BddVorGjm5jV-WS" width="300"/><br>
-<b>Chess Competition – Intercollege</b>
-</td>
+<td><img src="https://drive.google.com/uc?export=view&id=1wKDuveVHp_Ot_r2l950w5iYd04rppu_y" width="300"/></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1FlscLCjXIv3bTANt5yRzNuG3p0VKCk2L" width="300"/></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1ujtxE91GOOAyKwbq6BddVorGjm5jV-WS" width="300"/></td>
 </tr>
-
 <tr>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1ss9HJrUPxpqQnGj_ByfxlsCavDPjh325" width="300"/><br>
-<b>Arduino LCD Project Certificate</b>
-</td>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1XvHrPqe_NUwLIBDFQP310sbsahZPdvBS" width="300"/><br>
-<b>Circuit Debugging – 3rd Place</b>
-</td>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1Je71ociAX8fXKL6VwIXwlMnY_H9EXnts" width="300"/><br>
-<b>Project Expo – 2nd Place</b>
-</td>
+<td><img src="https://drive.google.com/uc?export=view&id=1ss9HJrUPxpqQnGj_ByfxlsCavDPjh325" width="300"/></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1XvHrPqe_NUwLIBDFQP310sbsahZPdvBS" width="300"/></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1Je71ociAX8fXKL6VwIXwlMnY_H9EXnts" width="300"/></td>
 </tr>
-
 <tr>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1oDYUCHuLzkhuWh8ag3cNQFFxFcuDmGUh" width="300"/><br>
-<b>Python Basics Certificate</b>
-</td>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1ipCehKGt-O8wOfJmLUxA-Tj_jNHleme4" width="300"/><br>
-<b>Java Programming Certificate</b>
-</td>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1YTRmH1tGlwp5UGap_pUCrndqqsd20OAS" width="300"/><br>
-<b>Innovation Contest Certificate</b>
-</td>
+<td><img src="https://drive.google.com/uc?export=view&id=1oDYUCHuLzkhuWh8ag3cNQFFxFcuDmGUh" width="300"/></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1ipCehKGt-O8wOfJmLUxA-Tj_jNHleme4" width="300"/></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1YTRmH1tGlwp5UGap_pUCrndqqsd20OAS" width="300"/></td>
 </tr>
-
 <tr>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1lVDPTUrezsnJ3hLsoZrbh7vfmjYAHoNE" width="300"/><br>
-<b>LinkedIn Personal Branding Workshop</b>
-</td>
-<td align="center">
-<img src="https://drive.google.com/uc?export=view&id=1QYmkmBKAQZcfTNdziuCXWKH0z__HyX--" width="300"/><br>
-<b>Student Achievement Recognition</b>
-</td>
+<td><img src="https://drive.google.com/uc?export=view&id=1lVDPTUrezsnJ3hLsoZrbh7vfmjYAHoNE" width="300"/></td>
+<td><img src="https://drive.google.com/uc?export=view&id=1QYmkmBKAQZcfTNdziuCXWKH0z__HyX--" width="300"/></td>
 </tr>
 </table>
 
@@ -158,4 +102,3 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 </div>
 
 <img align="left" src="https://profile-counter.glitch.me/deepakrajjs/count.svg?" />
-
