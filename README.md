@@ -46,7 +46,7 @@ An ECE student, freelancer, and chess player who loves turning ideas into realit
 
 <table>
 <tr>
-<td><img src="https://drive.google.com/uc?export=view&id=1e6PHDXMSf-h92AOFfGyqhQuH1Gxla5aV" width="300"/></td>
+<td><img src="[https://drive.google.com/uc?export=view&id=1e6PHDXMSf-h92AOFfGyqhQuH1Gxla5aV](https://drive.google.com/file/d/1ujtxE91GOOAyKwbq6BddVorGjm5jV-WS/view)" width="300"/></td>
 <td><img src="https://drive.google.com/uc?export=view&id=1kkjrhcrMRxV7syFzwr_Xh1_09MqNqCdb" width="300"/></td>
 <td><img src="https://drive.google.com/uc?export=view&id=1qx_GG0nj9K3f87EbiA5WjJ69Ek3mxTar" width="300"/></td>
 </tr>
