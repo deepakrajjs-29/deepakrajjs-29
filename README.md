@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Deepak Raj JS </h1>
 <h2 align="left">
-An ECE student, freelancer, and <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge"/> who loves turning ideas into reality through web development and embedded systems.
+An ECE student, freelancer, and <span style="color:#1E90FF;"><b>Open Source Contributor</b></span> who loves turning ideas into reality through web development and embedded systems.
 </h2>
+
 
 
 
