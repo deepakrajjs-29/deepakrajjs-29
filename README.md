@@ -3,10 +3,6 @@
 An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contributor</b></font> who loves turning ideas into reality through web development and embedded systems.
 </h2>
 
-
-
-
-
 ###
 
 <br clear="both">
