@@ -50,7 +50,7 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 ###
 
 ![deepakrajjs-29's Stats](https://github-readme-stats.vercel.app/api?username=deepakrajjs-29&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-![deepakrajjs-29's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakrajjs-29&theme=midnight-purple&hide_border=true)
+![deepakrajjs-29's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakrajjs-29&theme=midnight-purple&hide_border=true) <br>
 ![deepakrajjs-29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrajjs-29&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 ###
