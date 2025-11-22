@@ -23,21 +23,15 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 ![deepakrajjs-29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrajjs-29&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 ###
+<td width="50%" valign="top">
 
-<br clear="both">
+## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/deepak-raj-js-snsinstitutions/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/deepak_raj._.29" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:deepakrajjs2909@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=deepakrajjs-29&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FF006E&icon_color=FF006E" alt="GitHub Stats" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakrajjs-29&theme=radical&hide_border=true&background=1a1b27&stroke=FF006E&ring=FF006E&fire=FF006E&currStreakLabel=FF006E" alt="GitHub Streak" width="100%"/>
+
+</td>
 
 ###
 
