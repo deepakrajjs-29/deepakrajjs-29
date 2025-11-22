@@ -25,13 +25,15 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 ###
 <td width="50%" valign="top">
 
-## 📊 GitHub Stats
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepakrajjs-29&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=FF006E&icon_color=FF006E" alt="GitHub Stats" width="100%"/>
+## 📈 Contribution Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakrajjs-29&theme=radical&hide_border=true&background=1a1b27&stroke=FF006E&ring=FF006E&fire=FF006E&currStreakLabel=FF006E" alt="GitHub Streak" width="100%"/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakrajjs-29&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=0000FF&line=0000FF&point=FF006E" width="100%"/>
+</div>
 
-</td>
+---
 
 ###
 
