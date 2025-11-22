@@ -135,8 +135,53 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 
 </div>
 
-###
-###
+## 📫 Let's Connect
 
+<div align="center">
 
-###
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/deepak-raj-js-snsinstitutions/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"/>
+</a>
+<br>
+<sub>Professional Network</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://instagram.com/deepak_raj._.29">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100%"/>
+</a>
+<br>
+<sub>Daily Updates</sub>
+</td>
+<td align="center" width="25%">
+<a href="mailto:deepakrajjs2909@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100%"/>
+</a>
+<br>
+<sub>Business Inquiries</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/deepakrajjs-29">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" width="100%"/>
+</a>
+<br>
+<sub>Open Source</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepakrajjs-29&color=FF006E&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/deepakrajjs-29?style=for-the-badge&color=FF006E&labelColor=1a1b27)
+![GitHub Stars](https://img.shields.io/github/stars/deepakrajjs-29?style=for-the-badge&color=FF006E&labelColor=1a1b27)
+
+<sub>⭐️ From [deepakrajjs-29](https://github.com/deepakrajjs-29) with 💙</sub>
