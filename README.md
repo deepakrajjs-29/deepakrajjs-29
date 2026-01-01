@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm Deepak Raj JS </h1>
 <h2 align="left">
-An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contributor</b></font> who loves turning ideas into reality through web development and embedded systems.
-</h2>
+An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contributor</b></font> who loves turning ideas into reality through web development and embedded systems. </h2>
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 <br clear="both">
 <img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 <div align="center">
