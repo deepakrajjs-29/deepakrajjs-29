@@ -8,7 +8,7 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 <div align="center">
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=c,python,js,java,html,css,bootstrap,arduino,matlab&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,python,js,java,html,css,bootstrap,arduino,matlab&theme=dark" /> 
 
 ### Tools & Platforms  
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,opencv,linux&theme=dark" />
