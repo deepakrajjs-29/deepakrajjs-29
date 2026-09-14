@@ -8,7 +8,7 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=c,py,js,html,css,react,supabase,firebase,aws,azure,vercel,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,c,js,html,css,react,supabase,firebase,aws,azure,vercel,opencv&theme=dark" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/ML-6E56CF?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/NLP-6E56CF?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/CV-6E56CF?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/OCR-6E56CF?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/MediaPipe-6E56CF?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=1a1b27" />
 
 
