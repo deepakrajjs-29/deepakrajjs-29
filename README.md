@@ -19,10 +19,7 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 
 
 ---
-
-
-
-###
+## 📈 Contribution Activity
 ![deepakrajjs-29's Streak](https://streak-stats.demolab.com?user=deepakrajjs-29&theme=midnight-purple&hide_border=true)
 ![deepakrajjs-29's Stats](https://github-stats-extended.vercel.app/api?username=deepakrajjs-29&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 ![deepakrajjs-29's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=deepakrajjs-29&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
