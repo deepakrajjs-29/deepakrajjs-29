@@ -223,7 +223,7 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 <div align="center">
 
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+### 💡 *"I’m not trying to stay ahead of AI; I’m learning how to move forward with it."*
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepakrajjs-29&color=FF006E&style=for-the-badge&label=PROFILE+VIEWS)
