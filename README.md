@@ -48,13 +48,8 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 
 <div align="center">
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-![](./profile-3d-contrib/profile-season-animate.svg)
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 ![](./profile-3d-contrib/profile-night-view.svg)
-![](./profile-3d-contrib/profile-night-green.svg)
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-![](./profile-3d-contrib/profile-gitblock.svg)
 
 </div>
 
