@@ -8,11 +8,13 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=c,python,js,java,html,css,bootstrap,arduino,matlab&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=c,py,js,html,css,react,supabase,firebase,aws,azure,vercel,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/ML-6E56CF?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/NLP-6E56CF?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/CV-6E56CF?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/OCR-6E56CF?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/MediaPipe-6E56CF?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=1a1b27" />
 
 
 ### Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,opencv,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,figma,linux&theme=dark" /> <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" /> <img src="https://cdn.simpleicons.org/snowflake/29B5D5" height="48" alt="Snowflake" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/OpenCode-6E7681?style=for-the-badge&labelColor=1a1b27" />
 
 
 </div>
