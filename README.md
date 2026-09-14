@@ -47,107 +47,129 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 ###
 
 
-<div align="center">
-  
+ 
 ## 🏆 Certifications Gallery
 
 
-<div align="center">
 
+<div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/Cert1.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/Cert1.png" width="250" alt="Certificate 1"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf">
+        <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1b27" alt="AWS Cloud Practitioner"/><br><sub><b>Cloud Practitioner</b></sub><br><sub>AWS • PDF</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert2.PNG">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert2.PNG" width="250" alt="Certificate 2"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate%20(1).pdf">
+        <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1b27" alt="AWS Solutions Architect"/><br><sub><b>Solutions Architect</b></sub><br><sub>AWS • PDF</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert3.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert3.png" width="250" alt="Certificate 3"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/AWS%20Gen%20AI%20.pdf">
+        <img src="https://img.shields.io/badge/AWS-Gen%20AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1b27" alt="AWS Gen AI"/><br><sub><b>Gen AI</b></sub><br><sub>AWS • PDF</sub>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/Certificate/cert4.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert4.png" width="250" alt="Certificate 4"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/AWS%20ML%20.pdf">
+        <img src="https://img.shields.io/badge/AWS-ML-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1b27" alt="AWS ML"/><br><sub><b>ML</b></sub><br><sub>AWS • PDF</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert5.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert5.png" width="250" alt="Certificate 5"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert6.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert6.png" width="250" alt="Certificate 6"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/Oracle%20Database%40AWS%20Certified%20Architect%20Professional.pdf">
+        <img src="https://img.shields.io/badge/Oracle-DB%40AWS%20Pro-C74634?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1b27" alt="Oracle Database at AWS"/><br><sub><b>Database@AWS Pro</b></sub><br><sub>Oracle • PDF</sub>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert7.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert7.png" width="250" alt="Certificate 7"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/Azure%20AI%20fundamentals.pdf">
+        <img src="https://img.shields.io/badge/Azure-AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1a1b27" alt="Azure AI Fundamentals"/><br><sub><b>AI Fundamentals</b></sub><br><sub>Microsoft • PDF</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert8.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert8.png" width="250" alt="Certificate 8"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/azure%20data%20.PNG">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/azure%20data%20.PNG" width="120" alt="Azure Data"/><br><sub><b>Azure Data</b></sub><br><sub>Microsoft • PNG</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert9.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert9.png" width="250" alt="Certificate 9"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/DP-600%20Microsoft%20Certified%20Fabric%20Analytics%20Engineer%20Associate.pdf">
+        <img src="https://img.shields.io/badge/Microsoft-DP--600-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1a1b27" alt="DP-600"/><br><sub><b>DP-600 Fabric</b></sub><br><sub>Microsoft • PDF</sub>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert10.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert10.png" width="250" alt="Certificate 10"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/DP-700%20%E2%80%93%20Microsoft%20Certified%20Fabric%20Data%20Engineer%20Associate.pdf">
+        <img src="https://img.shields.io/badge/Microsoft-DP--700-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1a1b27" alt="DP-700"/><br><sub><b>DP-700 Fabric</b></sub><br><sub>Microsoft • PDF</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert11.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert11.png" width="250" alt="Certificate 11"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert12.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert12.png" width="250" alt="Certificate 12"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/DP-800.pdf">
+        <img src="https://img.shields.io/badge/Microsoft-DP--800-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1a1b27" alt="DP-800"/><br><sub><b>DP-800</b></sub><br><sub>Microsoft • PDF</sub>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert13.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert13.png" width="250" alt="Certificate 13"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/oci%20foundation.pdf">
+        <img src="https://img.shields.io/badge/Oracle-OCI%20Foundation-C74634?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1b27" alt="OCI Foundation"/><br><sub><b>OCI Foundation</b></sub><br><sub>Oracle • PDF</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert14.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert14.png" width="250" alt="Certificate 14"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/ai%20foundation.pdf">
+        <img src="https://img.shields.io/badge/AI-Foundation-6E56CF?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b27" alt="AI Foundation"/><br><sub><b>AI Foundation</b></sub><br><sub>AI • PDF</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert15.png">
-        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/cert15.png" width="250" alt="Certificate 15"/>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/data%20science%20professional.pdf">
+        <img src="https://img.shields.io/badge/Data%20Science-Professional-2854C5?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27" alt="Data Science Professional"/><br><sub><b>Data Science Pro</b></sub><br><sub>Data • PDF</sub>
+      </a>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/developer%20professional.pdf">
+        <img src="https://img.shields.io/badge/Developer-Professional-24292F?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Developer Professional"/><br><sub><b>Developer Pro</b></sub><br><sub>Data • PDF</sub>
+      </a>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/snowflake_Snowpro_associate_platform.pdf">
+        <img src="https://img.shields.io/badge/Snowflake-SnowPro%20Associate-29B5D5?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=1a1b27" alt="Snowflake"/><br><sub><b>SnowPro Associate</b></sub><br><sub>Snowflake • PDF</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/Data%20bricks.pdf">
+        <img src="https://img.shields.io/badge/Databricks-Certified-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1b27" alt="Databricks"/><br><sub><b>Databricks</b></sub><br><sub>Databricks • PDF</sub>
+      </a>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/Sales%20force.pdf">
+        <img src="https://img.shields.io/badge/Salesforce-Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=1a1b27" alt="Salesforce"/><br><sub><b>Salesforce</b></sub><br><sub>Salesforce • PDF</sub>
+      </a>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/Certificate%20-%20ServiceNow.pdf">
+        <img src="https://img.shields.io/badge/ServiceNow-Certified-62D84E?style=for-the-badge&logo=servicenow&logoColor=white&labelColor=1a1b27" alt="ServiceNow"/><br><sub><b>ServiceNow</b></sub><br><sub>ServiceNow • PDF</sub>
+      </a>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/Micro-Certification%20-%20Welcome%20to%20ServiceNow.pdf">
+        <img src="https://img.shields.io/badge/ServiceNow-Micro--Cert-62D84E?style=for-the-badge&logo=servicenow&logoColor=white&labelColor=1a1b27" alt="ServiceNow Micro"/><br><sub><b>Welcome Micro-Cert</b></sub><br><sub>ServiceNow • PDF</sub>
+      </a>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <a href="https://github.com/deepakrajjs-29/deepakrajjs-29/blob/main/certificate/RED%20HAT.jpg">
+        <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/main/certificate/RED%20HAT.jpg" width="120" alt="Red Hat"/><br><sub><b>Red Hat</b></sub><br><sub>Red Hat • JPG</sub>
       </a>
     </td>
   </tr>
 </table>
 
-
-<i>Click on any certificate to view full size</i>
-
+<i>Click any card to open full certificate</i>
 
 </div>
+
+
 
 
 ## 📫 Let's Connect
