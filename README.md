@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Deepak Raj JS </h1>
-<h2 align="left">
+<h1 align="left">Hi 👋, I'm Deepak Raj JS </h1><h2 align="left">
 An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contributor</b></font> who loves turning ideas into reality through web development and embedded systems. </h2>
  
 ### 🛠️ Tech Stack   
@@ -7,41 +6,72 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 <img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 <div align="center">
 
+
 ### Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=c,python,js,java,html,css,bootstrap,arduino,matlab&theme=dark" /> 
+
 
 ### Tools & Platforms  
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,opencv,linux&theme=dark" />
 
+
 </div>
 
+
 ---
+
 
 ###
 ![deepakrajjs-29's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakrajjs-29&theme=midnight-purple&hide_border=true) 
 ![deepakrajjs-29's Stats](https://github-readme-stats.vercel.app/api?username=deepakrajjs-29&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 ![deepakrajjs-29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrajjs-29&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
+
 ###
 <td width="50%" valign="top">
 
+
 ---
 
+
 ## 📈 Contribution Activity
+
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakrajjs-29&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=0000FF&line=0000FF&point=FF006E" width="100%"/>
 </div>
 
+
 ---
 
+## 🖥️ GitHub Profile 3D Contrib
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+</div>
+
+
+---
+
+
 ###
+
 
 <div align="center">
   
 ## 🏆 Certifications Gallery
 
+
 <div align="center">
+
 
 <table>
   <tr>
@@ -131,13 +161,18 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
   </tr>
 </table>
 
+
 <i>Click on any certificate to view full size</i>
+
 
 </div>
 
+
 ## 📫 Let's Connect
 
+
 <div align="center">
+
 
 <table>
 <tr>
@@ -172,16 +207,22 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 </tr>
 </table>
 
+
 </div>
+
 
 ---
 
+
 <div align="center">
 
+
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deepakrajjs-29&color=FF006E&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/deepakrajjs-29?style=for-the-badge&color=FF006E&labelColor=1a1b27)
 ![GitHub Stars](https://img.shields.io/github/stars/deepakrajjs-29?style=for-the-badge&color=FF006E&labelColor=1a1b27)
+
 
 <sub>⭐️ From [deepakrajjs-29](https://github.com/deepakrajjs-29) with 💙</sub>
