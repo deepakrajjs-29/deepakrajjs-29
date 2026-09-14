@@ -219,5 +219,13 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 ![GitHub Followers](https://img.shields.io/github/followers/deepakrajjs-29?style=for-the-badge&color=FF006E&labelColor=1a1b27)
 ![GitHub Stars](https://img.shields.io/github/stars/deepakrajjs-29?style=for-the-badge&color=FF006E&labelColor=1a1b27)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/deepakrajjs-29/deepakrajjs-29/output/pacman-contribution-graph.svg" alt="pacman animation">
+  </picture>
+</p>
+
 
 <sub>⭐️ From [deepakrajjs-29](https://github.com/deepakrajjs-29) with 💙</sub>
