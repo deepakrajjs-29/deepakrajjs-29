@@ -21,6 +21,7 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 ---
 
 
+
 ###
 ![deepakrajjs-29's Streak](https://streak-stats.demolab.com?user=deepakrajjs-29&theme=midnight-purple&hide_border=true)
 ![deepakrajjs-29's Stats](https://github-stats-extended.vercel.app/api?username=deepakrajjs-29&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
@@ -29,17 +30,6 @@ An ECE student, freelancer, and <font color="#1E90FF"><b> 💙 Open Source Contr
 
 ###
 <td width="50%" valign="top">
-
-
----
-
-
-## 📈 Contribution Activity
-
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakrajjs-29&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=0000FF&line=0000FF&point=FF006E" width="100%"/>
-</div>
 
 
 ---
