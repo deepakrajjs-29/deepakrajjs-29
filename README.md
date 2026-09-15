@@ -3,7 +3,7 @@ A final-year ECE student, freelancer, and 💙 Open Source Contributor exploring
  
 ### 🛠️ Tech Stack   
 <br clear="both">
-<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+
 <div align="center">
 
 
@@ -16,7 +16,7 @@ A final-year ECE student, freelancer, and 💙 Open Source Contributor exploring
 <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,figma,linux&theme=dark" /> <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" /> <img src="https://cdn.simpleicons.org/snowflake/29B5D5" height="48" alt="Snowflake" />
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&labelColor=1a1b27" /> <img src="https://img.shields.io/badge/OpenCode-6E7681?style=for-the-badge&labelColor=1a1b27" />
 
-
+<img align="center" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 </div>
 
 
